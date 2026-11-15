@@ -52,7 +52,7 @@ See [PatchStuff/BUILDING.md](PatchStuff/BUILDING.md) for the full step-by-step g
 
 The patch hooks `GFAFKJLDJKL` (the obfuscated function that builds Photon's
 `AppSettings` object at startup), overwrites the `Server` field with
-`127.0.0.1:8805` and disables `UseNameServer` so the client connects directly
+`192.168.1.91:8805` and disables `UseNameServer` so the client connects directly
 to the local server instead of Exitgames' name server.
 
 ## Related Projects
