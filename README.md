@@ -46,7 +46,7 @@ See [PatchStuff/BUILDING.md](PatchStuff/BUILDING.md) for the full step-by-step g
 | Architecture | `arm64-v8a` |
 | Min Android | 7.1 |
 | Hook target RVA | `0x4F19B58` |
-| Redirect to | `127.0.0.1:8805` |
+| Redirect to | `192.168.1.91:8805` |
 
 ## How it works
 
