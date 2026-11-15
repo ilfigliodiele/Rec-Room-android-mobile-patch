@@ -53,10 +53,6 @@ A native patch for Rec Room Android (build `20230427` / versionCode `22397318`) 
 
 - [RecFlare](https://github.com/djdevin/recflare) — Original server implementation (Quest patch reference)
 
-## License
-
-MIT License — Copyright (c) 2026 ilfigliodiele
-
 ## Why Theres Only Android Apps?
 
 Because i have this idea when im on the car and i dont have pc in car i dont want to wait to get home so ive done this on android :) anyways the patch can be used with pc with adb commands, sorry 🥲
