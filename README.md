@@ -2,7 +2,7 @@
 
 > ⚠️ **Work in Progress** — Patch compiled, testing in progress.
 
-A native patch for Rec Room Android (build `20230427` / versionCode `22397318`) that redirects the client to a custom private server at `127.0.0.1:8805`, bypassing the official Against Gravity servers.
+A native patch for Rec Room Android (build `20230427` / versionCode `22397318`) that redirects the client to a custom private server at `192.168.1.91:8805`, bypassing the official Against Gravity servers.
 
 ## Status
 
