@@ -24,6 +24,7 @@ A native patch for Rec Room Android (build `20230427` / versionCode `22397318`) 
 - [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) or apksigner
 - ADB
 - Rec Room APK build `20230427` (versionCode `22397318`)
+- Il2cpp dumper *for the dump
 
 ## How to apply
 
