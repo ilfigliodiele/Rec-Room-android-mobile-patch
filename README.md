@@ -2,7 +2,7 @@
 
 Native `arm64-v8a` hook for the Android client of Rec Room, build **20230427**
 (versionCode `22397318`). This is the public build: the phone talks HTTPS to
-`https://recrum.xyz` but you can modify the url and the anti-cheat quit is suppressed.
+`https://recrum.xyz` (but you can modify the url) and the anti-cheat quit is suppressed.
 
 The private build (same server, no anti-cheat suppression) lives in
 `../recroom-patch-recrum`.
